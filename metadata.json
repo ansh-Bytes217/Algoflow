@@ -1,0 +1,5 @@
+{
+  "name": "AlgoFlow",
+  "description": "A workflow-style algorithm workbench that grounds LLM suggestions in simulated runtime measurements.",
+  "requestFramePermissions": []
+}
